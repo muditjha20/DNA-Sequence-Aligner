@@ -1,0 +1,68 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+# IDE and build
+.idea/
+*.iml
+out/
+
+# OS-generated
+.DS_Store
+
+# Backup/autosave
+_*.input
+
+# IntelliJ project files
+.idea/
+*.iml
+out/
+
+# Mac/Windows OS
+.DS_Store
+Thumbs.db
+
+# Java build
+*.class
+
+# VS Code files
+.vscode/
+
+# Java class files
+*.class
+
+# IntelliJ leftovers
+.idea/
+*.iml
+out/
+
+# OS
+.DS_Store
+Thumbs.db
+
