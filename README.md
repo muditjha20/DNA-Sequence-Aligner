@@ -41,12 +41,8 @@ outputFile        = sequenceComparison.out
 
 ### `sequence.input`
 ```
-sequence:4:ACCGTAC
-AGGT
-X
-sequence:5:ACGTA
-CG
-X
+sequence:4:ACCGTACAGGTX
+sequence:5:ACGTACGX
 ```
 - Sequences are prefixed by `sequence:<number>:`
 - Lines following the header are joined into one sequence
